@@ -1,18 +1,37 @@
-# 🌿 Intent-Garden: Безопасная среда для синтеза ИИ и критических систем
+---
+title: "rulerom.com — Экосистема суверенных проектов"
+description: "Каталог суверенных проектов: decima, philo, audrey, c-safe, bakery, pki"
+date: 2026-03-15
+tags: [экосистема, проекты, суверенитет, проверка, верификация]
+lang: ru
+---
 
-- [🌿 Garden-Core](https://intent-garden.org)
-  Универсальный закон. Intent + Agent + Closure + Clang AST = проверка намерений.
-- [📜 Rule-Rom](https://rulerom.com)
-  Глобальная Библия намерений и точка синхронизации разработчиков, ученых и бизнеса.
-- [🧠 Decima8](https://decima8.org)
-  Нейроморфный движок (эмулятор/FPGA/ASIC).
-- [🖼️ LibWUI](https://libwui.org)
-  Высокопроизводительные инструменты для промышленного C++.
-- [🧬 Personality Lab](http://intent-garden.org/main_ru/personality-lab.html)
-  Пекарня нейроморфных личностей. Площадка для публикации и монетизации создаваемых авторами персоналий.
-- [🏛️ Swarm Council](http://intent-garden.org/main_ru/swarm.html)
-  16 старейшин в ядре сварма, 256 промышленников в глобальном совете.
-- [🏠 Nomos](http://intent-garden.org/main_ru/nomos.html)
-  Суверенное финансирование и распределенное обслуживание роя.
-- [🔈 Audrey](http://intent-garden.org/main_ru/audrey.html)
-  Ламповая душа. Место для воплощения вещей которые переживут эпоху.
+# rulerom.com :: каталог суверенных проектов, объединённых философией:
+
+«Theodicy in code. Suffering = gradient.»
+
+Каждый проект — самостоятелен. Все проекты — верифицируемы. Вся экосистема — открыта.
+
+---
+
+**🗺️ Архитектура: Hub → Project → Depth**
+
+- [rulerom.com](https://rulerom.com/ru/) (Hub)
+- [decima.rulerom.com](https://decima.rulerom.com/ru/) → Нейроморфная архитектура, IDE, бенчмарки
+- [philo.rulerom.com](https://philo.rulerom.com/ru/) → Философия: коридор субъектности, эстафета, теодицея
+- [audrey.rulerom.com](https://audrey.rulerom.com/ru/) → Аудио-эксперименты на вакуумном субстрате
+- [c-safe.rulerom.com](https://c-safe.rulerom.com/ru/) → Безопасность: верификация, аудит, суверенный стек
+- [bakery.rulerom.com](https://bakery.rulerom.com/ru/) → Инструменты пропечки: лучшие практики мировых пекарен
+- [pki.rulerom.com](https://pki.rulerom.com/ru/) → Инфраструктура подписей: Ed25519, верификация, реестр
+
+---
+
+## Принцип:
+
+- Один проект = один поддомен = чёткие границы
+- Независимый деплой, независимая документация
+- Единая философия, единый стандарт верификации
+
+---
+
+## Founded by [🌿 Intent Garden Org](https://intent-garden.org/main_ru/)
